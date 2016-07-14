@@ -1,0 +1,14 @@
+layout_spectrum: 0.9282814674079418
+typography_spectrum: 0.8979665793012828
+color:
+  brandStrength: 0.5549107696861029
+  lightness: 0.11430296208709478
+  saturation: 0.771267601987347
+  rhythmicContrast: 0.7679871006403118
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Mando Blues
